@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Science Blog</title>
+    <link href="https://nahian-maksood.github.io/blog/feed.xml" rel="self" />
+    <link href="https://nahian-maksood.github.io/blog" />
+    <updated>2022-10-26T19:50:05+06:00</updated>
+    <author>
+        <name>Nahian Maksood</name>
+    </author>
+    <id>https://nahian-maksood.github.io/blog</id>
+
+    <entry>
+        <title>Whats up</title>
+        <author>
+            <name>Nahian Maksood</name>
+        </author>
+        <link href="https://nahian-maksood.github.io/blog/whats-up.html"/>
+        <id>https://nahian-maksood.github.io/blog/whats-up.html</id>
+
+        <updated>2022-10-26T19:50:05+06:00</updated>
+            <summary>
+                <![CDATA[
+                    I am nahian
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I am nahian</p>
+<figure class="post__image"><img loading="lazy"  src="https://nahian-maksood.github.io/blog/media/posts/2/nahianmaksood.jpg" sizes="100vw" srcset="https://nahian-maksood.github.io/blog/media/posts/2/responsive/nahianmaksood-xs.jpg 300w ,https://nahian-maksood.github.io/blog/media/posts/2/responsive/nahianmaksood-sm.jpg 480w ,https://nahian-maksood.github.io/blog/media/posts/2/responsive/nahianmaksood-md.jpg 768w ,https://nahian-maksood.github.io/blog/media/posts/2/responsive/nahianmaksood-lg.jpg 1024w ,https://nahian-maksood.github.io/blog/media/posts/2/responsive/nahianmaksood-xl.jpg 1360w ,https://nahian-maksood.github.io/blog/media/posts/2/responsive/nahianmaksood-2xl.jpg 1600w"  alt="" width="591" height="443"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>First Post</title>
+        <author>
+            <name>Nahian Maksood</name>
+        </author>
+        <link href="https://nahian-maksood.github.io/blog/firts-post.html"/>
+        <id>https://nahian-maksood.github.io/blog/firts-post.html</id>
+
+        <updated>2022-10-26T19:49:35+06:00</updated>
+            <summary>
+                <![CDATA[
+                    Try my hard and soul to do well
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Try my hard and soul to do well</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,2 +1,0 @@
-# Blog
-Science Blog
